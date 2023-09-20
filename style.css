@@ -1,6 +1,12 @@
 h1{
     color: rgb(242, 12, 104);
 }
+
+h2{
+    color: blue;
+}
+
 p{
-    background-color: blanchedalmond;
+    background-color: antiquewhite;
+    color: red;
 }
